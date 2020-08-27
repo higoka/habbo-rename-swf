@@ -2,7 +2,7 @@
 
 A small script to rename swf files
 
-### Usage
+## Usage
 - Put your swf files inside `resource/`
 - Open `run.bat`
 
